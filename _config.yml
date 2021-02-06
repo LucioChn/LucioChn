@@ -1,1 +1,20 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+name: Mr.nobody
+location: 深圳市
+company: xx有限责任公司
+position: Java开发工程师
+github: https://github.com/
+facebook: https://www.facebook.com/
+phone: 18821584630
+email: xxxx@xxx.com
+
+baseurl: "/LucioChn"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
